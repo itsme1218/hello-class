@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-利用感知器（Perceptron）对鸢尾花进行二/多元分类
+利用感知器（Perceptron）对鸢尾花进行二/多元分类 Process
 
 """
 
